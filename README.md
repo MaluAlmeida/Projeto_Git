@@ -45,15 +45,15 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 
 <h1>4º passo: juntar o que foi feito no Git Bash com o repositório no GitHub</h1>
 - O primeiro passo é ir no nosso repositório já criado e em "CODE" copiar o link do rpositório
-<img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/05e7a75f-bcb5-4b7e-8ca9-c49c1f2f59a0.jpeg">
-- Após isso vamos usar o comando '<b>git remote add origin + link do repositório</b>' e depois o comando '<b>git pull --allow-unrelated-histories + link do repositótio</b>'
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/7e6cd402-b192-401a-b6aa-ef31c0c1a087.jpeg">
-- Assim que colocarmos o 2º código, uma tela de confirmação vai aparecer:
+- Após isso vamos usar o comando '<b>git remote add origin + link do repositório</b>' e depois o comando '<b>git pull --allow-unrelated-histories + link do repositótio</b>'
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/5c5fb5f3-3052-4c30-9686-12f7917e39c0.jpeg">
-- Para confirmar, devemos apertar ESC, depois usar o código '<b>:wq!</b>' e apertar ENTER
+- Assim que colocarmos o 2º código, uma tela de confirmação vai aparecer:
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/2bddec38-7093-4720-bbb3-84285f9cf7cf.jpeg">
-- E então voltaremos para a parte dos códigos
+- Para confirmar, devemos apertar ESC, depois usar o código '<b>:wq!</b>' e apertar ENTER
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/0081df09-7038-480d-8e2e-dc8f7de89cbe.jpeg">
+- E então voltaremos para a parte dos códigos
+<img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/d79c4516-7dcb-456b-9b01-5e1dddfae88b.jpeg">
 - Agora usareos os códigos '<b>git pull</b>', '<b>git pull --verbose</b>' e '<b>git add . </b>' para concluir essa parte
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/d79c4516-7dcb-456b-9b01-5e1dddfae88b.jpeg">
 <img src=".jpeg">
