@@ -1,5 +1,5 @@
 # Projeto_Git
-Projeto de GitHub - Larissa Isabel e Maria Luiza 
+<b>Projeto de GitHub - Larissa Isabel e Maria Luiza</b>
 
 <h1>1º passo: Criar um repositório no GitHub </h1>
 <br>
