@@ -3,7 +3,9 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 
 <h1>1º passo: Criar um repositório no GitHub </h1>
 <br>
+<br>
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/7d6ca208-5f55-4ad1-8919-7e844ead4e4c.jpeg"> 
+<br>
 <br>
 - Apertar no botão verde "New"
 <br>
