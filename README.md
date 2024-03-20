@@ -56,5 +56,5 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/d79c4516-7dcb-456b-9b01-5e1dddfae88b.jpeg">
 - Agora usareos os códigos '<b>git pull</b>', '<b>git pull --verbose</b>' e '<b>git add . </b>' para concluir essa parte
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/d79c4516-7dcb-456b-9b01-5e1dddfae88b.jpeg">
-<img src=".jpeg">
+<img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/5383072a-d080-4502-893e-dd4054c02ff6.jpeg">
 - E pronto, os dois estão juntos agora.
