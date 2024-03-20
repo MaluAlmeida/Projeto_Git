@@ -5,12 +5,13 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <br>
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/7d6ca208-5f55-4ad1-8919-7e844ead4e4c.jpeg"> 
 
-- Apertar no botão verde 'NEW'
+- Apertar no botão verde "New"
   
 <img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/859ae489-75ab-4247-b5ee-1e145bb0a0da.jpeg">
 
 - Adicionar as informações e apertar no botão "Create repository"
   
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/935bb63f-f12e-4ed0-92ba-19ef3a1339d9.jpeg">
+<img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/c2d158a0-7624-46a5-b55c-8442043dd0b4.jpeg">
 <br>
 <h1>2º passo: Criar a pasta do projeto </h1>
