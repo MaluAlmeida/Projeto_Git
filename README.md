@@ -21,7 +21,7 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <br>
 - Com a pasta já criada, apertar com o botão direito e clicar em "OPEN GIT BASH HERE" para iniciar os comandos 
 <br>
-<img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/36a1a083-5357-468e-827a-14ede8481f8a2.jpeg">
+<img s-rc = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/36a1a083-5357-468e-827a-14ede8481f8a2.jpeg">
 <br>
 - Após isso, o prompt do git bash vai abrir, e o 1º código utilizado vai ser: 
 
@@ -40,3 +40,21 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <img src =".jpeg">
 - O próximo passo é usar o comando: '<b>git add .</b>' que adiciona ao projeto todas essas alterações, e após isso, um '<b>git status</b>' novamente
 <img src =".jpeg">
+- Em seguida, usaremos os comandos '<b>git commit -m</b> para salvar com uma mensagem, e depois '<b>git log</b>' que mostra o que salvamos nesse commit
+<img src =".jpeg">
+
+<h1>4º passo: juntar o que foi feito no Git Bash com o repositório no GitHub</h1>
+- O primeiro passo é ir no nosso repositório já criado e em "CODE" copiar o link do rpositório
+<img src =".jpeg">
+- Após isso vamos usar o comando '<b>git remote add origin + link do repositório</b>' e depois o comando '<b>git pull --allow-unrelated-histories + link do repositótio</b>'
+<img src =".jpeg">
+- Assim que colocarmos o 2º código, uma tela de confirmação vai aparecer:
+<img src =".jpeg">
+- Para confirmar, devemos apertar ESC, depois usar o código '<b>:wq!</b>' e apertar ENTER
+<img src =".jpeg">
+- E então voltaremos para a parte dos códigos
+<img src =".jpeg">
+- Agora usareos os códigos '<b>git pull</b>', '<b>git pull --verbose</b>' e '<b>git add . </b>' para concluir essa parte
+<img src=".jpeg">
+<img src=".jpeg">
+- E pronto, os dois estão juntos agora.
