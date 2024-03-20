@@ -15,3 +15,9 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/c2d158a0-7624-46a5-b55c-8442043dd0b4.jpeg">
 <br>
 <h1>2º passo: Criar a pasta do projeto </h1>
+<br>
+<img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/e29a41af-443b-4eda-9c48-c97c811f4392.jpeg">
+- Com a pasta já criada, apertar com o botão direito e clicar em "OPEN GIT BASH HERE" para iniciar os comandos 
+<img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/36a1a083-5357-468e-827a-14ede8481f8a2.jpeg">
+- Após isso, o prompt do git bash vai abrir, e o 1º código utilizado vai ser: 
+<h4>git init</h4>: inicia o git
