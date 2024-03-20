@@ -24,7 +24,19 @@ Projeto de GitHub - Larissa Isabel e Maria Luiza
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/36a1a083-5357-468e-827a-14ede8481f8a2.jpeg">
 <br>
 - Após isso, o prompt do git bash vai abrir, e o 1º código utilizado vai ser: 
-<b>git init</b>: inicia o git. 
+
+<b>git init</b>: Inicia o git. 
 <br>
 <img src = "https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/7ef4848d-879a-460f-a275-286460a3006e.jpeg">
 <br>
+- Assim que iniciar o git, uma pasta oculta ".git" vai aparecer. Depois, vamos começar a criar os arquivos do nosso projeto.
+<img src =".jpeg">
+<img src =".jpeg">
+<h1>3º passo: Configurações no Git Bash</h1>
+- Os primeiros códigos que devemos utilizar são: 
+<img src =".jpeg"> 
+ + Devemos linkar nosso github com o git bash, e por isso usamos esses 2 códigos, que conectam nosso nome de usuário e nosso email do github. 
+- O próximo código é o '<b>git status</b>': ele mostra o que temos de alteração na pasta, tudo que foi feito de novo ou modificado. 
+<img src =".jpeg">
+- O próximo passo é usar o comando: '<b>git add .</b>' que adiciona ao projeto todas essas alterações, e após isso, um '<b>git status</b>' novamente
+<img src =".jpeg">
