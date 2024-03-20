@@ -80,3 +80,14 @@
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/d79c4516-7dcb-456b-9b01-5e1dddfae88b.jpeg">
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/5383072a-d080-4502-893e-dd4054c02ff6.jpeg">
 - E pronto, os dois estão juntos agora.
+<br>
+<h1>5º passo: Fazer as alterações e salvar o repositório</h1>
+<br>
+- Para fazer as alterações pelo repositório do GitHub, podemos apertar o "." do teclado que vai abrir o VS Code pelo navegador. 
+- Lá, quando editar o arquivo, vai aparecer uma bolinha azul no ícone do github
+<img src=".jpeg">
+<br><br>
+- Podemos escrever uma mensagem para o commit e apertar o botão "COMMIT E PUSH" que ele vai salvar com as alterações feitas.
+<img src=".jpeg">
+
+
