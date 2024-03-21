@@ -86,11 +86,11 @@
 - Para fazer as alterações pelo repositório do GitHub, podemos apertar o "." do teclado que vai abrir o VS Code pelo navegador. 
 <br>
 - Lá, quando editar o arquivo, vai aparecer uma bolinha azul no ícone do github
-<img src=".jpeg">
+<img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/445ab965-ae84-43ed-a1a2-2b90ac980dfa.jpeg">
 <br><br>
 - Podemos escrever uma mensagem para o commit e apertar o botão "COMMIT E PUSH" que ele vai salvar com as alterações feitas.
-<img src=".jpeg">
-<img src =".jpeg">
+<img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/739ec5a0-6d89-41fa-8eb8-f0075f06c666.jpeg">
+<img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/ff989699-8fbc-432a-9c16-1e3509a695c0.jpeg">
 <h1>6º passo: Fazer as alterações na pasta e salvar no repositório</h1>
 <br>
 - Quando mudar algo nos arquivos da pasta, devemos abrir o git bash e utilizar o código '<b>git status</b>' para ver o que tem de novo na pasta 
