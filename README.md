@@ -94,7 +94,7 @@
 <h1>6º passo: Fazer as alterações na pasta e salvar no repositório</h1>
 <br>
 - Quando mudar algo nos arquivos da pasta, devemos abrir o git bash e utilizar o código '<b>git status</b>' para ver o que tem de novo na pasta 
-<img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/739ec5a0-6d89-41fa-8eb8-f0075f06c666.jpeg">
+<img src ="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/5ca5bce7-dea0-4a92-8025-448cd2501c0a.jpeg">
 <br><br>
 - Para salvar essas alterações no github, usamos os códigos '<b>git add .</b>' ; '<b>git status</b>' novamente; '<b>git commit -m</b> e '<b>git log</b>' para comitar com uma mensagem
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/733b791d-5aba-40ae-82fd-9240394d8757.jpeg">
