@@ -103,6 +103,5 @@
 <img src="https://github.com/MaluAlmeida/Projeto_Git/assets/150203502/1ab282f9-285c-4fdb-a048-42279ef52bae.jpeg">
 <br><br>
 - E pronto, o commit está feito no github e as alterações estão salvas
-<img src=".jpeg">
 
 
